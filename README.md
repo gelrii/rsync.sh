@@ -13,3 +13,4 @@ This script will allow you to que several rsync commands to the same directory.
 
 - Allow the user to select whether multiple output files are wanted
 - Allow the user to use tab completion when entering file names
+- save the user from destroying file system 
